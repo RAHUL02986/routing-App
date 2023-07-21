@@ -91,6 +91,9 @@ span{
     background-color:rgb(20, 79, 124) ;
     
 }
+.main-div{
+    width: 900px;
+}
 .aside{
     background-color: white;
     width: 200px;
@@ -172,6 +175,7 @@ h4{
     align-items: center;
 }
 .bg{
+    width: 300px;
     background-color: white;
     margin: 10px;
     padding: 20px;

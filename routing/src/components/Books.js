@@ -17,7 +17,7 @@ class Books extends React.Component {
 
     return (
       <>
-        <div>
+        <div className="main-div">
           <input
             placeholder="Search"
             className="search"
